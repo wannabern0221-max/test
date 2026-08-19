@@ -1,0 +1,14 @@
+# 실제 server {} 블록 안에서 경로를 조정해 사용하세요.
+location ^~ /data/nextleader-files/ {
+    deny all;
+    return 404;
+}
+
+location = /about.html { return 302 /plugin/nextleader/about.php; }
+location = /notice.html { return 302 /plugin/nextleader/content.php?bo=nl_notice; }
+location = /cards.html { return 302 /plugin/nextleader/content.php?bo=nl_cards; }
+location = /policy.html { return 302 /plugin/nextleader/content.php?bo=nl_policy; }
+location = /glossary.html { return 302 /plugin/nextleader/glossary.php; }
+location = /news.html { return 302 /plugin/nextleader/news.php; }
+location = /schedule.html { return 302 /plugin/nextleader/schedule.php; }
+location = /dashboard.html { return 302 /plugin/nextleader/dashboard.php; }

@@ -1,0 +1,11 @@
+# Apache mod_rewrite 예시. 실제 도메인/DocumentRoot에서 검증 후 사용하세요.
+RewriteEngine On
+RewriteRule ^about\.html$ /plugin/nextleader/about.php [R=302,L]
+RewriteRule ^notice\.html$ /plugin/nextleader/content.php?bo=nl_notice [R=302,L,QSA]
+RewriteRule ^cards\.html$ /plugin/nextleader/content.php?bo=nl_cards [R=302,L,QSA]
+RewriteRule ^policy\.html$ /plugin/nextleader/content.php?bo=nl_policy [R=302,L,QSA]
+RewriteRule ^glossary\.html$ /plugin/nextleader/glossary.php [R=302,L]
+RewriteRule ^news\.html$ /plugin/nextleader/news.php [R=302,L]
+RewriteRule ^schedule\.html$ /plugin/nextleader/schedule.php [R=302,L]
+RewriteRule ^dashboard\.html$ /plugin/nextleader/dashboard.php [R=302,L]
+# 검증 기간에는 302를 쓰고, URL 확정 후 301로 전환하세요.
