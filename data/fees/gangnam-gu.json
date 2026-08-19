@@ -1,0 +1,490 @@
+[
+  {
+    "category": "가구류",
+    "item": "책상",
+    "itemSlug": "desk",
+    "aliases": [
+      "데스크"
+    ],
+    "spec": "양수책상",
+    "fee": 7000
+  },
+  {
+    "category": "가구류",
+    "item": "책상",
+    "itemSlug": "desk",
+    "aliases": [
+      "데스크"
+    ],
+    "spec": "편수책상",
+    "fee": 4000
+  },
+  {
+    "category": "가구류",
+    "item": "책상",
+    "itemSlug": "desk",
+    "aliases": [
+      "컴퓨터책상",
+      "컴퓨터용책상"
+    ],
+    "spec": "컴퓨터용 책상 / 서랍 없음",
+    "fee": 3000
+  },
+  {
+    "category": "가구류",
+    "item": "책장",
+    "itemSlug": "bookshelf",
+    "aliases": [
+      "책꽂이장"
+    ],
+    "spec": "100cm 이상",
+    "fee": 8000
+  },
+  {
+    "category": "가구류",
+    "item": "책장",
+    "itemSlug": "bookshelf",
+    "aliases": [
+      "책꽂이장"
+    ],
+    "spec": "100cm 미만",
+    "fee": 5000
+  },
+  {
+    "category": "가구류",
+    "item": "책꽂이",
+    "itemSlug": "book-rack",
+    "aliases": [
+      "책꽃이"
+    ],
+    "spec": "4단 이하",
+    "fee": 4000
+  },
+  {
+    "category": "가구류",
+    "item": "책꽂이",
+    "itemSlug": "book-rack",
+    "aliases": [
+      "책꽃이"
+    ],
+    "spec": "2단 이하",
+    "fee": 2000
+  },
+  {
+    "category": "가구류",
+    "item": "침대",
+    "itemSlug": "bed",
+    "aliases": [
+      "매트리스",
+      "침대프레임",
+      "침대틀"
+    ],
+    "spec": "2인용 세트 (매트리스 1개 + 틀)",
+    "fee": 15000
+  },
+  {
+    "category": "가구류",
+    "item": "침대",
+    "itemSlug": "bed",
+    "aliases": [
+      "매트리스",
+      "침대프레임",
+      "침대틀"
+    ],
+    "spec": "1인용 세트 (매트리스 1개 + 틀)",
+    "fee": 10000
+  },
+  {
+    "category": "가구류",
+    "item": "침대",
+    "itemSlug": "bed",
+    "aliases": [
+      "매트리스"
+    ],
+    "spec": "2인용 매트리스",
+    "fee": 8000
+  },
+  {
+    "category": "가구류",
+    "item": "침대",
+    "itemSlug": "bed",
+    "aliases": [
+      "매트리스"
+    ],
+    "spec": "1인용 매트리스",
+    "fee": 5000
+  },
+  {
+    "category": "가구류",
+    "item": "침대",
+    "itemSlug": "bed",
+    "aliases": [
+      "침대프레임",
+      "침대틀"
+    ],
+    "spec": "2인용 틀",
+    "fee": 7000
+  },
+  {
+    "category": "가구류",
+    "item": "침대",
+    "itemSlug": "bed",
+    "aliases": [
+      "침대프레임",
+      "침대틀"
+    ],
+    "spec": "1인용 틀",
+    "fee": 5000
+  },
+  {
+    "category": "가구류",
+    "item": "침대",
+    "itemSlug": "bed",
+    "aliases": [
+      "아기침대"
+    ],
+    "spec": "유아용 침대",
+    "fee": 3000
+  },
+  {
+    "category": "가구류",
+    "item": "침대",
+    "itemSlug": "bed",
+    "aliases": [
+      "이층침대",
+      "2층침대"
+    ],
+    "spec": "어린이 2층 침대",
+    "fee": 20000
+  },
+  {
+    "category": "가구류",
+    "item": "침대",
+    "itemSlug": "bed",
+    "aliases": [
+      "돌침대"
+    ],
+    "spec": "2인용 돌침대 세트",
+    "fee": 30000
+  },
+  {
+    "category": "가구류",
+    "item": "침대",
+    "itemSlug": "bed",
+    "aliases": [
+      "돌침대"
+    ],
+    "spec": "1인용 돌침대 세트",
+    "fee": 25000
+  },
+  {
+    "category": "가구류",
+    "item": "의자",
+    "itemSlug": "chair",
+    "aliases": [
+      "체어"
+    ],
+    "spec": "1인용",
+    "fee": 2000
+  },
+  {
+    "category": "가구류",
+    "item": "의자",
+    "itemSlug": "chair",
+    "aliases": [
+      "장의자",
+      "벤치"
+    ],
+    "spec": "장의자",
+    "fee": 3000
+  },
+  {
+    "category": "가구류",
+    "item": "의자",
+    "itemSlug": "chair",
+    "aliases": [
+      "사무용의자",
+      "컴퓨터의자"
+    ],
+    "spec": "바퀴 달린 의자 (대형)",
+    "fee": 5000
+  },
+  {
+    "category": "가구류",
+    "item": "의자",
+    "itemSlug": "chair",
+    "aliases": [
+      "사무용의자",
+      "컴퓨터의자"
+    ],
+    "spec": "바퀴 달린 의자 (일반)",
+    "fee": 4000
+  },
+  {
+    "category": "가구류",
+    "item": "화장대",
+    "itemSlug": "vanity",
+    "aliases": [],
+    "spec": "모든 규격",
+    "fee": 5000
+  },
+  {
+    "category": "가구류",
+    "item": "신발장",
+    "itemSlug": "shoe-cabinet",
+    "aliases": [
+      "신발수납장"
+    ],
+    "spec": "1m 이상",
+    "fee": 5000
+  },
+  {
+    "category": "가구류",
+    "item": "신발장",
+    "itemSlug": "shoe-cabinet",
+    "aliases": [
+      "신발수납장"
+    ],
+    "spec": "1m 미만",
+    "fee": 2000
+  },
+  {
+    "category": "가구류",
+    "item": "옷걸이",
+    "itemSlug": "clothes-rack",
+    "aliases": [
+      "행거"
+    ],
+    "spec": "모든 규격",
+    "fee": 2000
+  },
+  {
+    "category": "가구류",
+    "item": "오디오장식장",
+    "itemSlug": "audio-cabinet",
+    "aliases": [
+      "오디오장"
+    ],
+    "spec": "모든 규격",
+    "fee": 3000
+  },
+  {
+    "category": "가구류",
+    "item": "TV 받침",
+    "itemSlug": "tv-stand",
+    "aliases": [
+      "티비다이",
+      "TV장",
+      "티비장"
+    ],
+    "spec": "모든 규격",
+    "fee": 3000
+  },
+  {
+    "category": "가구류",
+    "item": "밥상",
+    "itemSlug": "low-table",
+    "aliases": [
+      "상",
+      "교자상"
+    ],
+    "spec": "4인 이상",
+    "fee": 2000
+  },
+  {
+    "category": "가구류",
+    "item": "밥상",
+    "itemSlug": "low-table",
+    "aliases": [
+      "상",
+      "교자상"
+    ],
+    "spec": "3인 이하",
+    "fee": 1000
+  },
+  {
+    "category": "가구류",
+    "item": "진열대",
+    "itemSlug": "display-rack",
+    "aliases": [
+      "진열장"
+    ],
+    "spec": "모든 규격",
+    "fee": 3000
+  },
+  {
+    "category": "가구류",
+    "item": "차탁자",
+    "itemSlug": "tea-table",
+    "aliases": [
+      "티테이블",
+      "사이드테이블"
+    ],
+    "spec": "모든 규격",
+    "fee": 2000
+  },
+  {
+    "category": "가구류",
+    "item": "회의용 탁자",
+    "itemSlug": "conference-table",
+    "aliases": [
+      "회의테이블"
+    ],
+    "spec": "12인용 이상",
+    "fee": 9000
+  },
+  {
+    "category": "가구류",
+    "item": "회의용 탁자",
+    "itemSlug": "conference-table",
+    "aliases": [
+      "회의테이블"
+    ],
+    "spec": "8인용 이상",
+    "fee": 7000
+  },
+  {
+    "category": "가구류",
+    "item": "회의용 탁자",
+    "itemSlug": "conference-table",
+    "aliases": [
+      "회의테이블"
+    ],
+    "spec": "8인용 미만",
+    "fee": 5000
+  },
+  {
+    "category": "가전제품류",
+    "item": "냉장고",
+    "itemSlug": "refrigerator",
+    "aliases": [
+      "냉장고"
+    ],
+    "spec": "양문형 냉장고 (700ℓ 이상)",
+    "fee": 15000
+  },
+  {
+    "category": "기타생활용품",
+    "item": "액자",
+    "itemSlug": "picture-frame",
+    "aliases": [
+      "사진액자"
+    ],
+    "spec": "높이 50cm 미만",
+    "fee": 1000
+  },
+  {
+    "category": "기타생활용품",
+    "item": "시계",
+    "itemSlug": "clock",
+    "aliases": [
+      "벽시계"
+    ],
+    "spec": "높이 1m 이상",
+    "fee": 3000
+  },
+  {
+    "category": "기타생활용품",
+    "item": "장판",
+    "itemSlug": "flooring",
+    "aliases": [
+      "바닥장판"
+    ],
+    "spec": "3.3㎡당",
+    "fee": 2000
+  },
+  {
+    "category": "기타생활용품",
+    "item": "카페트",
+    "itemSlug": "carpet",
+    "aliases": [
+      "카펫",
+      "러그"
+    ],
+    "spec": "3.3㎡당",
+    "fee": 2000
+  },
+  {
+    "category": "기타생활용품",
+    "item": "이불",
+    "itemSlug": "bedding",
+    "aliases": [
+      "침구",
+      "요"
+    ],
+    "spec": "모든 규격",
+    "fee": 2000
+  },
+  {
+    "category": "기타생활용품",
+    "item": "캐비넷",
+    "itemSlug": "cabinet",
+    "aliases": [
+      "캐비닛"
+    ],
+    "spec": "모든 규격",
+    "fee": 4000
+  },
+  {
+    "category": "기타생활용품",
+    "item": "화일캐비넷",
+    "itemSlug": "file-cabinet",
+    "aliases": [
+      "파일캐비넷",
+      "서류함"
+    ],
+    "spec": "4단 이상",
+    "fee": 4000
+  },
+  {
+    "category": "기타생활용품",
+    "item": "화일캐비넷",
+    "itemSlug": "file-cabinet",
+    "aliases": [
+      "파일캐비넷",
+      "서류함"
+    ],
+    "spec": "4단 미만",
+    "fee": 3000
+  },
+  {
+    "category": "기타생활용품",
+    "item": "어항",
+    "itemSlug": "fish-tank",
+    "aliases": [
+      "수족관"
+    ],
+    "spec": "2m 이상",
+    "fee": 9000
+  },
+  {
+    "category": "기타생활용품",
+    "item": "다림이판",
+    "itemSlug": "ironing-board",
+    "aliases": [
+      "다리미판"
+    ],
+    "spec": "모든 규격",
+    "fee": 1000
+  },
+  {
+    "category": "기타생활용품",
+    "item": "문짝",
+    "itemSlug": "door-panel",
+    "aliases": [
+      "문"
+    ],
+    "spec": "목재류",
+    "fee": 3000
+  },
+  {
+    "category": "기타생활용품",
+    "item": "창문짝",
+    "itemSlug": "window-panel",
+    "aliases": [
+      "창문"
+    ],
+    "spec": "모든 규격",
+    "fee": 2000
+  }
+]

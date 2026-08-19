@@ -1,0 +1,156 @@
+[
+  {
+    "city": "서울특별시",
+    "name": "종로구",
+    "slug": "jongno-gu",
+    "status": "pending"
+  },
+  {
+    "city": "서울특별시",
+    "name": "중구",
+    "slug": "jung-gu",
+    "status": "pending"
+  },
+  {
+    "city": "서울특별시",
+    "name": "용산구",
+    "slug": "yongsan-gu",
+    "status": "pending"
+  },
+  {
+    "city": "서울특별시",
+    "name": "성동구",
+    "slug": "seongdong-gu",
+    "status": "pending"
+  },
+  {
+    "city": "서울특별시",
+    "name": "광진구",
+    "slug": "gwangjin-gu",
+    "status": "pending"
+  },
+  {
+    "city": "서울특별시",
+    "name": "동대문구",
+    "slug": "dongdaemun-gu",
+    "status": "pending"
+  },
+  {
+    "city": "서울특별시",
+    "name": "중랑구",
+    "slug": "jungnang-gu",
+    "status": "pending"
+  },
+  {
+    "city": "서울특별시",
+    "name": "성북구",
+    "slug": "seongbuk-gu",
+    "status": "pending"
+  },
+  {
+    "city": "서울특별시",
+    "name": "강북구",
+    "slug": "gangbuk-gu",
+    "status": "pending"
+  },
+  {
+    "city": "서울특별시",
+    "name": "도봉구",
+    "slug": "dobong-gu",
+    "status": "pending"
+  },
+  {
+    "city": "서울특별시",
+    "name": "노원구",
+    "slug": "nowon-gu",
+    "status": "pending"
+  },
+  {
+    "city": "서울특별시",
+    "name": "은평구",
+    "slug": "eunpyeong-gu",
+    "status": "pending"
+  },
+  {
+    "city": "서울특별시",
+    "name": "서대문구",
+    "slug": "seodaemun-gu",
+    "status": "pending"
+  },
+  {
+    "city": "서울특별시",
+    "name": "마포구",
+    "slug": "mapo-gu",
+    "status": "pending"
+  },
+  {
+    "city": "서울특별시",
+    "name": "양천구",
+    "slug": "yangcheon-gu",
+    "status": "pending"
+  },
+  {
+    "city": "서울특별시",
+    "name": "강서구",
+    "slug": "gangseo-gu",
+    "status": "pending"
+  },
+  {
+    "city": "서울특별시",
+    "name": "구로구",
+    "slug": "guro-gu",
+    "status": "pending"
+  },
+  {
+    "city": "서울특별시",
+    "name": "금천구",
+    "slug": "geumcheon-gu",
+    "status": "pending"
+  },
+  {
+    "city": "서울특별시",
+    "name": "영등포구",
+    "slug": "yeongdeungpo-gu",
+    "status": "pending"
+  },
+  {
+    "city": "서울특별시",
+    "name": "동작구",
+    "slug": "dongjak-gu",
+    "status": "pending"
+  },
+  {
+    "city": "서울특별시",
+    "name": "관악구",
+    "slug": "gwanak-gu",
+    "status": "pending"
+  },
+  {
+    "city": "서울특별시",
+    "name": "서초구",
+    "slug": "seocho-gu",
+    "status": "pending"
+  },
+  {
+    "city": "서울특별시",
+    "name": "강남구",
+    "slug": "gangnam-gu",
+    "status": "verified",
+    "sourceUrl": "https://clean.gangnam.go.kr/use/biwa/USEBIWA01000000.do",
+    "applyUrl": "https://clean.gangnam.go.kr/",
+    "verifiedAt": "2026-08-10",
+    "sourceName": "강남구 자원순환 종합포털"
+  },
+  {
+    "city": "서울특별시",
+    "name": "송파구",
+    "slug": "songpa-gu",
+    "status": "pending"
+  },
+  {
+    "city": "서울특별시",
+    "name": "강동구",
+    "slug": "gangdong-gu",
+    "status": "pending"
+  }
+]
